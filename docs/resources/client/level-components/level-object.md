@@ -141,6 +141,7 @@ Property keys reflect the keys found in the following table, whereas property va
 | 106 | Randomize Start                      | **bool**                                        | the Randomize Start property of the animated object                                |
 | 107 | Animation Speed                      | **float**                                       | the Animation Speed property of the animated object                                |
 | 108 | Linked Group ID                      | **integer**                                     | the Linked Group ID property of the object                                         |
+| 109 | Linked Group ID                      | **integer**                                     | the Zoom property for the zoom trigger (only in 2.2 currently)                                     |
 
 ***Undiscovered Existing Features***
 
